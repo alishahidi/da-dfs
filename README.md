@@ -1,3 +1,21 @@
+🚨 Repository Moved 🚨
+
+**This repository has been moved!**
+
+The Depth-First Search (DFS) implementation is now part of the [Graph project](https://github.com/alishahidi/da-graph), which contains various graph-related components and algorithms.
+
+**New Repository URL:** [https://github.com/alishahidi/da-graph](https://github.com/alishahidi/da-graph)
+
+Please visit the new repository for the updated and enhanced version of the Depth-First Search algorithm, along with other graph-related functionalities. All future developments and updates will be made in the [Graph project](https://github.com/your-username/graph) repository.
+
+Thank you for your interest in the DFS project, and we look forward to seeing you at the [Graph project](https://github.com/alishahidi/da-graph)!
+
+If you have any questions or need assistance, feel free to reach out.
+
+Happy coding! 🚀
+
+
+
 # Depth-First Search (DFS) Algorithm
 
 ## Introduction
